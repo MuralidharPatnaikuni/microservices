@@ -1,0 +1,9 @@
+cct-message-flow:
+  request:
+    pacs008:
+      001: 
+        010: <FIIdClrSysId>
+  response:
+    pacs002:
+      001:
+        010: <FIIdRsp>
